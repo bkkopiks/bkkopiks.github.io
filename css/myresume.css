@@ -17,7 +17,7 @@ p.lead {
 	font-size: 18px;
 }
 .bg-primary {
-    background-color: #d6a458;
+    background-color: #d6a458 !important;
     background-image: url("../assets/img/cutcube.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
