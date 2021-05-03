@@ -24,4 +24,46 @@ p.lead {
 .text-primary {
     color: #d68d33 !important;
 }
+div#container {
+	background-color: DodgerBlue;
+	padding: 0.5rem;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+div.child_div {
+	font-size:1.5rem;
+	background-color: #ffffff;
+	margin: 0.5rem;
+	padding: 0.5rem;
+}
+
+.child_div p {
+	display: block;
+	margin: 0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
